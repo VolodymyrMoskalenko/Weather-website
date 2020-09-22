@@ -2,8 +2,8 @@ body {
     color: #333333;
     font-family: arial;
     max-width: 650px;
-    margin: 0 auto; /*vneshnee predstavlenie*/
-    padding: 0 16px; /*vnytrenee predstavlenie*/
+    margin: 0 auto; 
+    padding: 0 16px;
  
     /* enable flex-box */
     display: flex;
